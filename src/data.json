@@ -1,0 +1,3075 @@
+{
+  "version": "4.0",
+  "snapshot": {
+    "day": 7,
+    "totalDays": 14,
+    "time": "21:45",
+    "season": "NASRAL 2026",
+    "phase": "tournament"
+  },
+  "players": [
+    {
+      "id": "flash",
+      "name": "F1ashko",
+      "asset": "F1ashko",
+      "platform": "Twitch",
+      "delta": 0,
+      "rank25": 1,
+      "rank26": 1,
+      "editorial": false,
+      "risk": "green",
+      "current": "witcher3",
+      "points": 1240,
+      "minutes": 3720,
+      "finished": 6,
+      "dropped": 1,
+      "playing": 1,
+      "attempts": 8,
+      "votes": 14200,
+      "favorites": 994,
+      "rating": 5.8,
+      "voteRank": 1
+    },
+    {
+      "id": "dunduk",
+      "name": "Dunduk",
+      "asset": "Dunduk",
+      "platform": "Twitch",
+      "delta": 2,
+      "rank25": 3,
+      "rank26": 2,
+      "editorial": true,
+      "risk": "green",
+      "current": "disco",
+      "points": 1128,
+      "minutes": 3900,
+      "finished": 7,
+      "dropped": 1,
+      "playing": 1,
+      "attempts": 9,
+      "votes": 13600,
+      "favorites": 1265,
+      "rating": 5.0,
+      "voteRank": 2
+    },
+    {
+      "id": "mel",
+      "name": "Melharucos",
+      "asset": "Melharucos",
+      "platform": "Twitch",
+      "delta": -1,
+      "rank25": null,
+      "rank26": 3,
+      "editorial": true,
+      "risk": "green",
+      "current": "bg3",
+      "points": 1094,
+      "minutes": 4080,
+      "finished": 5,
+      "dropped": 3,
+      "playing": 1,
+      "attempts": 9,
+      "votes": 12900,
+      "favorites": 1496,
+      "rating": 4.5,
+      "voteRank": 3
+    },
+    {
+      "id": "karmik",
+      "name": "KarmikKoala",
+      "asset": "KarmikKoala",
+      "platform": "Twitch",
+      "delta": -1,
+      "rank25": 4,
+      "rank26": 4,
+      "editorial": false,
+      "risk": "green",
+      "current": "gothic2",
+      "points": 1020,
+      "minutes": 3480,
+      "finished": 5,
+      "dropped": 1,
+      "playing": 1,
+      "attempts": 7,
+      "votes": 12000,
+      "favorites": 1668,
+      "rating": 4.1,
+      "voteRank": 4
+    },
+    {
+      "id": "lasqa",
+      "name": "Lasqa",
+      "asset": "Lasqa",
+      "platform": "Twitch",
+      "delta": 1,
+      "rank25": null,
+      "rank26": 5,
+      "editorial": true,
+      "risk": "green",
+      "current": "kingdom",
+      "points": 990,
+      "minutes": 3600,
+      "finished": 5,
+      "dropped": 2,
+      "playing": 1,
+      "attempts": 8,
+      "votes": 11400,
+      "favorites": 798,
+      "rating": 4.0,
+      "voteRank": 5
+    },
+    {
+      "id": "praden",
+      "name": "Praden",
+      "asset": "Praden",
+      "platform": "Twitch",
+      "delta": 1,
+      "rank25": null,
+      "rank26": 6,
+      "editorial": false,
+      "risk": "green",
+      "current": "ds3",
+      "points": 910,
+      "minutes": 3300,
+      "finished": 4,
+      "dropped": 2,
+      "playing": 1,
+      "attempts": 7,
+      "votes": 10800,
+      "favorites": 1004,
+      "rating": 3.9,
+      "voteRank": 6
+    },
+    {
+      "id": "alina",
+      "name": "AlinaRinRin",
+      "asset": "AlinaRinRin",
+      "platform": "Twitch",
+      "delta": 1,
+      "rank25": 8,
+      "rank26": null,
+      "editorial": true,
+      "risk": "green",
+      "current": "pathologic2",
+      "points": 847,
+      "minutes": 3660,
+      "finished": 4,
+      "dropped": 3,
+      "playing": 1,
+      "attempts": 8,
+      "votes": 9900,
+      "favorites": 1148,
+      "rating": 3.6,
+      "voteRank": 7
+    },
+    {
+      "id": "nenormova",
+      "name": "nenormova",
+      "asset": "nenormova",
+      "platform": "Twitch",
+      "delta": -3,
+      "rank25": null,
+      "rank26": 12,
+      "editorial": false,
+      "risk": "green",
+      "current": "cyberpunk",
+      "points": 799,
+      "minutes": 3420,
+      "finished": 3,
+      "dropped": 2,
+      "playing": 1,
+      "attempts": 6,
+      "votes": 9200,
+      "favorites": 1279,
+      "rating": 3.6,
+      "voteRank": 8
+    },
+    {
+      "id": "ozon",
+      "name": "OZON671GAMES3",
+      "asset": "OZON671GAMES3",
+      "platform": "Kick",
+      "risk": "red",
+      "editorial": false,
+      "rank25": null,
+      "rank26": null,
+      "votes": 8600,
+      "favorites": 602,
+      "rating": 3.6,
+      "voteRank": 9
+    },
+    {
+      "id": "dawg",
+      "name": "Dawgonosik",
+      "asset": "Dawgonosik",
+      "platform": "Twitch",
+      "risk": "red",
+      "editorial": false,
+      "rank25": null,
+      "rank26": null,
+      "votes": 8200,
+      "favorites": 763,
+      "rating": 3.5,
+      "voteRank": 10
+    },
+    {
+      "id": "arrow",
+      "name": "Arrowwoods",
+      "asset": "Arrowwoods",
+      "platform": "Twitch",
+      "risk": "green",
+      "editorial": true,
+      "rank25": 5,
+      "rank26": 11,
+      "votes": 7600,
+      "favorites": 882,
+      "rating": 3.4,
+      "voteRank": 11
+    },
+    {
+      "id": "vj",
+      "name": "VJLinktopgamer",
+      "asset": "VJLinktopgamer",
+      "platform": "Twitch",
+      "risk": "orange",
+      "editorial": false,
+      "rank25": null,
+      "rank26": null,
+      "votes": 7000,
+      "favorites": 973,
+      "rating": 3.2,
+      "voteRank": 12
+    }
+  ],
+  "attempts": [
+    {
+      "id": "flash-01",
+      "player": "flash",
+      "game": "portal2",
+      "status": "finished",
+      "minutes": 298,
+      "points": 207,
+      "day": 1,
+      "clip": null,
+      "lot": "LOT-001"
+    },
+    {
+      "id": "flash-02",
+      "player": "flash",
+      "game": "inside",
+      "status": "finished",
+      "minutes": 358,
+      "points": 207,
+      "day": 2,
+      "clip": null,
+      "lot": "LOT-002"
+    },
+    {
+      "id": "flash-03",
+      "player": "flash",
+      "game": "celeste",
+      "status": "finished",
+      "minutes": 417,
+      "points": 207,
+      "day": 3,
+      "clip": null,
+      "lot": "LOT-003"
+    },
+    {
+      "id": "flash-04",
+      "player": "flash",
+      "game": "firewatch",
+      "status": "finished",
+      "minutes": 477,
+      "points": 207,
+      "day": 4,
+      "clip": null,
+      "lot": "LOT-004"
+    },
+    {
+      "id": "flash-05",
+      "player": "flash",
+      "game": "limbo",
+      "status": "finished",
+      "minutes": 298,
+      "points": 206,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-005"
+    },
+    {
+      "id": "flash-06",
+      "player": "flash",
+      "game": "inscryption",
+      "status": "finished",
+      "minutes": 358,
+      "points": 206,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-006"
+    },
+    {
+      "id": "flash-07",
+      "player": "flash",
+      "game": "katana",
+      "status": "dropped",
+      "minutes": 122,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-007"
+    },
+    {
+      "id": "flash-live",
+      "player": "flash",
+      "game": "witcher3",
+      "status": "playing",
+      "minutes": 1392,
+      "points": null,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-008"
+    },
+    {
+      "id": "dunduk-01",
+      "player": "dunduk",
+      "game": "inside",
+      "status": "finished",
+      "minutes": 339,
+      "points": 162,
+      "day": 1,
+      "clip": null,
+      "lot": "LOT-009"
+    },
+    {
+      "id": "dunduk-02",
+      "player": "dunduk",
+      "game": "celeste",
+      "status": "finished",
+      "minutes": 396,
+      "points": 161,
+      "day": 2,
+      "clip": null,
+      "lot": "LOT-010"
+    },
+    {
+      "id": "dunduk-03",
+      "player": "dunduk",
+      "game": "firewatch",
+      "status": "finished",
+      "minutes": 452,
+      "points": 161,
+      "day": 3,
+      "clip": null,
+      "lot": "LOT-011"
+    },
+    {
+      "id": "dunduk-04",
+      "player": "dunduk",
+      "game": "limbo",
+      "status": "finished",
+      "minutes": 283,
+      "points": 161,
+      "day": 4,
+      "clip": null,
+      "lot": "LOT-012"
+    },
+    {
+      "id": "dunduk-05",
+      "player": "dunduk",
+      "game": "inscryption",
+      "status": "finished",
+      "minutes": 339,
+      "points": 161,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-013"
+    },
+    {
+      "id": "dunduk-06",
+      "player": "dunduk",
+      "game": "katana",
+      "status": "finished",
+      "minutes": 396,
+      "points": 161,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-014"
+    },
+    {
+      "id": "dunduk-07",
+      "player": "dunduk",
+      "game": "hades",
+      "status": "finished",
+      "minutes": 452,
+      "points": 161,
+      "day": 7,
+      "clip": null,
+      "lot": "LOT-015"
+    },
+    {
+      "id": "dunduk-08",
+      "player": "dunduk",
+      "game": "portal2",
+      "status": "dropped",
+      "minutes": 117,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-016"
+    },
+    {
+      "id": "dunduk-live",
+      "player": "dunduk",
+      "game": "disco",
+      "status": "playing",
+      "minutes": 1126,
+      "points": null,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-017"
+    },
+    {
+      "id": "mel-01",
+      "player": "mel",
+      "game": "inscryption",
+      "status": "finished",
+      "minutes": 451,
+      "points": 219,
+      "day": 1,
+      "clip": null,
+      "lot": "LOT-018"
+    },
+    {
+      "id": "mel-02",
+      "player": "mel",
+      "game": "firewatch",
+      "status": "finished",
+      "minutes": 516,
+      "points": 219,
+      "day": 2,
+      "clip": null,
+      "lot": "LOT-019"
+    },
+    {
+      "id": "mel-03",
+      "player": "mel",
+      "game": "limbo",
+      "status": "finished",
+      "minutes": 322,
+      "points": 219,
+      "day": 3,
+      "clip": null,
+      "lot": "LOT-020"
+    },
+    {
+      "id": "mel-04",
+      "player": "mel",
+      "game": "inscryption",
+      "status": "finished",
+      "minutes": 387,
+      "points": 219,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-021"
+    },
+    {
+      "id": "mel-05",
+      "player": "mel",
+      "game": "katana",
+      "status": "finished",
+      "minutes": 451,
+      "points": 218,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-022"
+    },
+    {
+      "id": "mel-06",
+      "player": "mel",
+      "game": "hades",
+      "status": "dropped",
+      "minutes": 129,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-023"
+    },
+    {
+      "id": "mel-07",
+      "player": "mel",
+      "game": "portal2",
+      "status": "dropped",
+      "minutes": 129,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-024"
+    },
+    {
+      "id": "mel-08",
+      "player": "mel",
+      "game": "inside",
+      "status": "dropped",
+      "minutes": 133,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-025"
+    },
+    {
+      "id": "mel-live",
+      "player": "mel",
+      "game": "bg3",
+      "status": "playing",
+      "minutes": 1562,
+      "points": null,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-026"
+    },
+    {
+      "id": "karmik-01",
+      "player": "karmik",
+      "game": "firewatch",
+      "status": "finished",
+      "minutes": 542,
+      "points": 204,
+      "day": 1,
+      "clip": null,
+      "lot": "LOT-027"
+    },
+    {
+      "id": "karmik-02",
+      "player": "karmik",
+      "game": "limbo",
+      "status": "finished",
+      "minutes": 339,
+      "points": 204,
+      "day": 2,
+      "clip": null,
+      "lot": "LOT-028"
+    },
+    {
+      "id": "karmik-03",
+      "player": "karmik",
+      "game": "inscryption",
+      "status": "finished",
+      "minutes": 407,
+      "points": 204,
+      "day": 3,
+      "clip": null,
+      "lot": "LOT-029"
+    },
+    {
+      "id": "karmik-04",
+      "player": "karmik",
+      "game": "katana",
+      "status": "finished",
+      "minutes": 474,
+      "points": 204,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-030"
+    },
+    {
+      "id": "karmik-05",
+      "player": "karmik",
+      "game": "hades",
+      "status": "finished",
+      "minutes": 542,
+      "points": 204,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-031"
+    },
+    {
+      "id": "karmik-06",
+      "player": "karmik",
+      "game": "portal2",
+      "status": "dropped",
+      "minutes": 138,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-032"
+    },
+    {
+      "id": "karmik-live",
+      "player": "karmik",
+      "game": "gothic2",
+      "status": "playing",
+      "minutes": 1038,
+      "points": null,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-033"
+    },
+    {
+      "id": "lasqa-01",
+      "player": "lasqa",
+      "game": "limbo",
+      "status": "finished",
+      "minutes": 351,
+      "points": 198,
+      "day": 1,
+      "clip": null,
+      "lot": "LOT-034"
+    },
+    {
+      "id": "lasqa-02",
+      "player": "lasqa",
+      "game": "inscryption",
+      "status": "finished",
+      "minutes": 421,
+      "points": 198,
+      "day": 2,
+      "clip": null,
+      "lot": "LOT-035"
+    },
+    {
+      "id": "lasqa-03",
+      "player": "lasqa",
+      "game": "katana",
+      "status": "finished",
+      "minutes": 492,
+      "points": 198,
+      "day": 3,
+      "clip": null,
+      "lot": "LOT-036"
+    },
+    {
+      "id": "lasqa-04",
+      "player": "lasqa",
+      "game": "hades",
+      "status": "finished",
+      "minutes": 562,
+      "points": 198,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-037"
+    },
+    {
+      "id": "lasqa-05",
+      "player": "lasqa",
+      "game": "portal2",
+      "status": "finished",
+      "minutes": 351,
+      "points": 198,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-038"
+    },
+    {
+      "id": "lasqa-06",
+      "player": "lasqa",
+      "game": "inside",
+      "status": "dropped",
+      "minutes": 140,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-039"
+    },
+    {
+      "id": "lasqa-07",
+      "player": "lasqa",
+      "game": "celeste",
+      "status": "dropped",
+      "minutes": 143,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-040"
+    },
+    {
+      "id": "lasqa-live",
+      "player": "lasqa",
+      "game": "kingdom",
+      "status": "playing",
+      "minutes": 1140,
+      "points": null,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-041"
+    },
+    {
+      "id": "praden-01",
+      "player": "praden",
+      "game": "inscryption",
+      "status": "finished",
+      "minutes": 406,
+      "points": 228,
+      "day": 1,
+      "clip": null,
+      "lot": "LOT-042"
+    },
+    {
+      "id": "praden-02",
+      "player": "praden",
+      "game": "katana",
+      "status": "finished",
+      "minutes": 474,
+      "points": 228,
+      "day": 2,
+      "clip": null,
+      "lot": "LOT-043"
+    },
+    {
+      "id": "praden-03",
+      "player": "praden",
+      "game": "hades",
+      "status": "finished",
+      "minutes": 542,
+      "points": 227,
+      "day": 4,
+      "clip": null,
+      "lot": "LOT-044"
+    },
+    {
+      "id": "praden-04",
+      "player": "praden",
+      "game": "portal2",
+      "status": "finished",
+      "minutes": 339,
+      "points": 227,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-045"
+    },
+    {
+      "id": "praden-05",
+      "player": "praden",
+      "game": "inside",
+      "status": "dropped",
+      "minutes": 135,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-046"
+    },
+    {
+      "id": "praden-06",
+      "player": "praden",
+      "game": "celeste",
+      "status": "dropped",
+      "minutes": 138,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-047"
+    },
+    {
+      "id": "praden-live",
+      "player": "praden",
+      "game": "ds3",
+      "status": "playing",
+      "minutes": 1266,
+      "points": null,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-048"
+    },
+    {
+      "id": "alina-01",
+      "player": "alina",
+      "game": "katana",
+      "status": "finished",
+      "minutes": 642,
+      "points": 212,
+      "day": 1,
+      "clip": null,
+      "lot": "LOT-049"
+    },
+    {
+      "id": "alina-02",
+      "player": "alina",
+      "game": "hades",
+      "status": "finished",
+      "minutes": 733,
+      "points": 212,
+      "day": 2,
+      "clip": null,
+      "lot": "LOT-050"
+    },
+    {
+      "id": "alina-03",
+      "player": "alina",
+      "game": "portal2",
+      "status": "finished",
+      "minutes": 458,
+      "points": 212,
+      "day": 4,
+      "clip": null,
+      "lot": "LOT-051"
+    },
+    {
+      "id": "alina-04",
+      "player": "alina",
+      "game": "inside",
+      "status": "finished",
+      "minutes": 550,
+      "points": 211,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-052"
+    },
+    {
+      "id": "alina-05",
+      "player": "alina",
+      "game": "celeste",
+      "status": "dropped",
+      "minutes": 183,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-053"
+    },
+    {
+      "id": "alina-06",
+      "player": "alina",
+      "game": "firewatch",
+      "status": "dropped",
+      "minutes": 183,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-054"
+    },
+    {
+      "id": "alina-07",
+      "player": "alina",
+      "game": "limbo",
+      "status": "dropped",
+      "minutes": 186,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-055"
+    },
+    {
+      "id": "alina-live",
+      "player": "alina",
+      "game": "pathologic2",
+      "status": "playing",
+      "minutes": 725,
+      "points": null,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-056"
+    },
+    {
+      "id": "nenormova-01",
+      "player": "nenormova",
+      "game": "hades",
+      "status": "finished",
+      "minutes": 757,
+      "points": 267,
+      "day": 1,
+      "clip": null,
+      "lot": "LOT-057"
+    },
+    {
+      "id": "nenormova-02",
+      "player": "nenormova",
+      "game": "portal2",
+      "status": "finished",
+      "minutes": 473,
+      "points": 266,
+      "day": 3,
+      "clip": null,
+      "lot": "LOT-058"
+    },
+    {
+      "id": "nenormova-03",
+      "player": "nenormova",
+      "game": "inside",
+      "status": "finished",
+      "minutes": 568,
+      "points": 266,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-059"
+    },
+    {
+      "id": "nenormova-04",
+      "player": "nenormova",
+      "game": "celeste",
+      "status": "dropped",
+      "minutes": 189,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-060"
+    },
+    {
+      "id": "nenormova-05",
+      "player": "nenormova",
+      "game": "firewatch",
+      "status": "dropped",
+      "minutes": 191,
+      "points": 0,
+      "day": 6,
+      "clip": null,
+      "lot": "LOT-061"
+    },
+    {
+      "id": "nenormova-live",
+      "player": "nenormova",
+      "game": "cyberpunk",
+      "status": "playing",
+      "minutes": 1242,
+      "points": null,
+      "day": 5,
+      "clip": null,
+      "lot": "LOT-062"
+    }
+  ],
+  "auctions": [
+    {
+      "id": "LOT-001",
+      "player": "flash",
+      "game": "portal2",
+      "attempt": "flash-01",
+      "status": "finished",
+      "day": 1,
+      "winning": 42000,
+      "total": 76440,
+      "options": [
+        {
+          "game": "portal2",
+          "amount": 42000,
+          "winner": true
+        },
+        {
+          "game": "inside",
+          "amount": 25200,
+          "winner": false
+        },
+        {
+          "game": "celeste",
+          "amount": 9240,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-002",
+      "player": "flash",
+      "game": "inside",
+      "attempt": "flash-02",
+      "status": "finished",
+      "day": 2,
+      "winning": 85000,
+      "total": 154700,
+      "options": [
+        {
+          "game": "inside",
+          "amount": 85000,
+          "winner": true
+        },
+        {
+          "game": "celeste",
+          "amount": 51000,
+          "winner": false
+        },
+        {
+          "game": "firewatch",
+          "amount": 18700,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-003",
+      "player": "flash",
+      "game": "celeste",
+      "attempt": "flash-03",
+      "status": "finished",
+      "day": 3,
+      "winning": 128000,
+      "total": 232960,
+      "options": [
+        {
+          "game": "celeste",
+          "amount": 128000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 76800,
+          "winner": false
+        },
+        {
+          "game": "limbo",
+          "amount": 28160,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-004",
+      "player": "flash",
+      "game": "firewatch",
+      "attempt": "flash-04",
+      "status": "finished",
+      "day": 4,
+      "winning": 171000,
+      "total": 311220,
+      "options": [
+        {
+          "game": "firewatch",
+          "amount": 171000,
+          "winner": true
+        },
+        {
+          "game": "limbo",
+          "amount": 102600,
+          "winner": false
+        },
+        {
+          "game": "inscryption",
+          "amount": 37620,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-005",
+      "player": "flash",
+      "game": "limbo",
+      "attempt": "flash-05",
+      "status": "finished",
+      "day": 5,
+      "winning": 214000,
+      "total": 389480,
+      "options": [
+        {
+          "game": "limbo",
+          "amount": 214000,
+          "winner": true
+        },
+        {
+          "game": "inscryption",
+          "amount": 128400,
+          "winner": false
+        },
+        {
+          "game": "katana",
+          "amount": 47080,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-006",
+      "player": "flash",
+      "game": "inscryption",
+      "attempt": "flash-06",
+      "status": "finished",
+      "day": 6,
+      "winning": 257000,
+      "total": 467740,
+      "options": [
+        {
+          "game": "inscryption",
+          "amount": 257000,
+          "winner": true
+        },
+        {
+          "game": "katana",
+          "amount": 154200,
+          "winner": false
+        },
+        {
+          "game": "hades",
+          "amount": 56540,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Хорроры"
+    },
+    {
+      "id": "LOT-007",
+      "player": "flash",
+      "game": "katana",
+      "attempt": "flash-07",
+      "status": "dropped",
+      "day": 6,
+      "winning": 60000,
+      "total": 109200,
+      "options": [
+        {
+          "game": "katana",
+          "amount": 60000,
+          "winner": true
+        },
+        {
+          "game": "hades",
+          "amount": 36000,
+          "winner": false
+        },
+        {
+          "game": "portal2",
+          "amount": 13200,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-008",
+      "player": "flash",
+      "game": "witcher3",
+      "attempt": "flash-live",
+      "status": "playing",
+      "day": 5,
+      "winning": 103000,
+      "total": 187460,
+      "options": [
+        {
+          "game": "witcher3",
+          "amount": 103000,
+          "winner": true
+        },
+        {
+          "game": "hades",
+          "amount": 61800,
+          "winner": false
+        },
+        {
+          "game": "portal2",
+          "amount": 22660,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "RPG"
+    },
+    {
+      "id": "LOT-009",
+      "player": "dunduk",
+      "game": "inside",
+      "attempt": "dunduk-01",
+      "status": "finished",
+      "day": 1,
+      "winning": 146000,
+      "total": 265720,
+      "options": [
+        {
+          "game": "inside",
+          "amount": 146000,
+          "winner": true
+        },
+        {
+          "game": "portal2",
+          "amount": 87600,
+          "winner": false
+        },
+        {
+          "game": "celeste",
+          "amount": 32120,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-010",
+      "player": "dunduk",
+      "game": "celeste",
+      "attempt": "dunduk-02",
+      "status": "finished",
+      "day": 2,
+      "winning": 189000,
+      "total": 343980,
+      "options": [
+        {
+          "game": "celeste",
+          "amount": 189000,
+          "winner": true
+        },
+        {
+          "game": "inside",
+          "amount": 113400,
+          "winner": false
+        },
+        {
+          "game": "firewatch",
+          "amount": 41580,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-011",
+      "player": "dunduk",
+      "game": "firewatch",
+      "attempt": "dunduk-03",
+      "status": "finished",
+      "day": 3,
+      "winning": 232000,
+      "total": 422240,
+      "options": [
+        {
+          "game": "firewatch",
+          "amount": 232000,
+          "winner": true
+        },
+        {
+          "game": "celeste",
+          "amount": 139200,
+          "winner": false
+        },
+        {
+          "game": "limbo",
+          "amount": 51040,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-012",
+      "player": "dunduk",
+      "game": "limbo",
+      "attempt": "dunduk-04",
+      "status": "finished",
+      "day": 4,
+      "winning": 35000,
+      "total": 63700,
+      "options": [
+        {
+          "game": "limbo",
+          "amount": 35000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 21000,
+          "winner": false
+        },
+        {
+          "game": "inscryption",
+          "amount": 7700,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-013",
+      "player": "dunduk",
+      "game": "inscryption",
+      "attempt": "dunduk-05",
+      "status": "finished",
+      "day": 5,
+      "winning": 78000,
+      "total": 141960,
+      "options": [
+        {
+          "game": "inscryption",
+          "amount": 78000,
+          "winner": true
+        },
+        {
+          "game": "limbo",
+          "amount": 46800,
+          "winner": false
+        },
+        {
+          "game": "katana",
+          "amount": 17160,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Хорроры"
+    },
+    {
+      "id": "LOT-014",
+      "player": "dunduk",
+      "game": "katana",
+      "attempt": "dunduk-06",
+      "status": "finished",
+      "day": 6,
+      "winning": 121000,
+      "total": 220220,
+      "options": [
+        {
+          "game": "katana",
+          "amount": 121000,
+          "winner": true
+        },
+        {
+          "game": "inscryption",
+          "amount": 72600,
+          "winner": false
+        },
+        {
+          "game": "hades",
+          "amount": 26620,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-015",
+      "player": "dunduk",
+      "game": "hades",
+      "attempt": "dunduk-07",
+      "status": "finished",
+      "day": 7,
+      "winning": 164000,
+      "total": 298480,
+      "options": [
+        {
+          "game": "hades",
+          "amount": 164000,
+          "winner": true
+        },
+        {
+          "game": "katana",
+          "amount": 98400,
+          "winner": false
+        },
+        {
+          "game": "portal2",
+          "amount": 36080,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Экшен"
+    },
+    {
+      "id": "LOT-016",
+      "player": "dunduk",
+      "game": "portal2",
+      "attempt": "dunduk-08",
+      "status": "dropped",
+      "day": 6,
+      "winning": 207000,
+      "total": 376740,
+      "options": [
+        {
+          "game": "portal2",
+          "amount": 207000,
+          "winner": true
+        },
+        {
+          "game": "hades",
+          "amount": 124200,
+          "winner": false
+        },
+        {
+          "game": "inside",
+          "amount": 45540,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-017",
+      "player": "dunduk",
+      "game": "disco",
+      "attempt": "dunduk-live",
+      "status": "playing",
+      "day": 6,
+      "winning": 250000,
+      "total": 455000,
+      "options": [
+        {
+          "game": "disco",
+          "amount": 250000,
+          "winner": true
+        },
+        {
+          "game": "portal2",
+          "amount": 150000,
+          "winner": false
+        },
+        {
+          "game": "inside",
+          "amount": 55000,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "RPG"
+    },
+    {
+      "id": "LOT-018",
+      "player": "mel",
+      "game": "inscryption",
+      "attempt": "mel-01",
+      "status": "finished",
+      "day": 1,
+      "winning": 342000,
+      "total": 622440,
+      "options": [
+        {
+          "game": "inscryption",
+          "amount": 342000,
+          "winner": true
+        },
+        {
+          "game": "inside",
+          "amount": 205200,
+          "winner": false
+        },
+        {
+          "game": "celeste",
+          "amount": 75240,
+          "winner": false
+        }
+      ],
+      "condition": "Без подсказок",
+      "genre": "Хорроры"
+    },
+    {
+      "id": "LOT-019",
+      "player": "mel",
+      "game": "firewatch",
+      "attempt": "mel-02",
+      "status": "finished",
+      "day": 2,
+      "winning": 96000,
+      "total": 174720,
+      "options": [
+        {
+          "game": "firewatch",
+          "amount": 96000,
+          "winner": true
+        },
+        {
+          "game": "celeste",
+          "amount": 57600,
+          "winner": false
+        },
+        {
+          "game": "limbo",
+          "amount": 21120,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-020",
+      "player": "mel",
+      "game": "limbo",
+      "attempt": "mel-03",
+      "status": "finished",
+      "day": 3,
+      "winning": 139000,
+      "total": 252980,
+      "options": [
+        {
+          "game": "limbo",
+          "amount": 139000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 83400,
+          "winner": false
+        },
+        {
+          "game": "inscryption",
+          "amount": 30580,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-021",
+      "player": "mel",
+      "game": "inscryption",
+      "attempt": "mel-04",
+      "status": "finished",
+      "day": 5,
+      "winning": 182000,
+      "total": 331240,
+      "options": [
+        {
+          "game": "inscryption",
+          "amount": 182000,
+          "winner": true
+        },
+        {
+          "game": "limbo",
+          "amount": 109200,
+          "winner": false
+        },
+        {
+          "game": "katana",
+          "amount": 40040,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Хорроры"
+    },
+    {
+      "id": "LOT-022",
+      "player": "mel",
+      "game": "katana",
+      "attempt": "mel-05",
+      "status": "finished",
+      "day": 6,
+      "winning": 225000,
+      "total": 409500,
+      "options": [
+        {
+          "game": "katana",
+          "amount": 225000,
+          "winner": true
+        },
+        {
+          "game": "inscryption",
+          "amount": 135000,
+          "winner": false
+        },
+        {
+          "game": "hades",
+          "amount": 49500,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-023",
+      "player": "mel",
+      "game": "hades",
+      "attempt": "mel-06",
+      "status": "dropped",
+      "day": 6,
+      "winning": 28000,
+      "total": 50960,
+      "options": [
+        {
+          "game": "hades",
+          "amount": 28000,
+          "winner": true
+        },
+        {
+          "game": "katana",
+          "amount": 16800,
+          "winner": false
+        },
+        {
+          "game": "portal2",
+          "amount": 6160,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Экшен"
+    },
+    {
+      "id": "LOT-024",
+      "player": "mel",
+      "game": "portal2",
+      "attempt": "mel-07",
+      "status": "dropped",
+      "day": 6,
+      "winning": 71000,
+      "total": 129220,
+      "options": [
+        {
+          "game": "portal2",
+          "amount": 71000,
+          "winner": true
+        },
+        {
+          "game": "hades",
+          "amount": 42600,
+          "winner": false
+        },
+        {
+          "game": "inside",
+          "amount": 15620,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-025",
+      "player": "mel",
+      "game": "inside",
+      "attempt": "mel-08",
+      "status": "dropped",
+      "day": 6,
+      "winning": 114000,
+      "total": 207480,
+      "options": [
+        {
+          "game": "inside",
+          "amount": 114000,
+          "winner": true
+        },
+        {
+          "game": "portal2",
+          "amount": 68400,
+          "winner": false
+        },
+        {
+          "game": "celeste",
+          "amount": 25080,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-026",
+      "player": "mel",
+      "game": "bg3",
+      "attempt": "mel-live",
+      "status": "playing",
+      "day": 5,
+      "winning": 157000,
+      "total": 285740,
+      "options": [
+        {
+          "game": "bg3",
+          "amount": 157000,
+          "winner": true
+        },
+        {
+          "game": "inside",
+          "amount": 94200,
+          "winner": false
+        },
+        {
+          "game": "celeste",
+          "amount": 34540,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "RPG"
+    },
+    {
+      "id": "LOT-027",
+      "player": "karmik",
+      "game": "firewatch",
+      "attempt": "karmik-01",
+      "status": "finished",
+      "day": 1,
+      "winning": 200000,
+      "total": 364000,
+      "options": [
+        {
+          "game": "firewatch",
+          "amount": 200000,
+          "winner": true
+        },
+        {
+          "game": "celeste",
+          "amount": 120000,
+          "winner": false
+        },
+        {
+          "game": "limbo",
+          "amount": 44000,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-028",
+      "player": "karmik",
+      "game": "limbo",
+      "attempt": "karmik-02",
+      "status": "finished",
+      "day": 2,
+      "winning": 243000,
+      "total": 442260,
+      "options": [
+        {
+          "game": "limbo",
+          "amount": 243000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 145800,
+          "winner": false
+        },
+        {
+          "game": "inscryption",
+          "amount": 53460,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-029",
+      "player": "karmik",
+      "game": "inscryption",
+      "attempt": "karmik-03",
+      "status": "finished",
+      "day": 3,
+      "winning": 46000,
+      "total": 83720,
+      "options": [
+        {
+          "game": "inscryption",
+          "amount": 46000,
+          "winner": true
+        },
+        {
+          "game": "limbo",
+          "amount": 27600,
+          "winner": false
+        },
+        {
+          "game": "katana",
+          "amount": 10120,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Хорроры"
+    },
+    {
+      "id": "LOT-030",
+      "player": "karmik",
+      "game": "katana",
+      "attempt": "karmik-04",
+      "status": "finished",
+      "day": 5,
+      "winning": 89000,
+      "total": 161980,
+      "options": [
+        {
+          "game": "katana",
+          "amount": 89000,
+          "winner": true
+        },
+        {
+          "game": "inscryption",
+          "amount": 53400,
+          "winner": false
+        },
+        {
+          "game": "hades",
+          "amount": 19580,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-031",
+      "player": "karmik",
+      "game": "hades",
+      "attempt": "karmik-05",
+      "status": "finished",
+      "day": 6,
+      "winning": 132000,
+      "total": 240240,
+      "options": [
+        {
+          "game": "hades",
+          "amount": 132000,
+          "winner": true
+        },
+        {
+          "game": "katana",
+          "amount": 79200,
+          "winner": false
+        },
+        {
+          "game": "portal2",
+          "amount": 29040,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Экшен"
+    },
+    {
+      "id": "LOT-032",
+      "player": "karmik",
+      "game": "portal2",
+      "attempt": "karmik-06",
+      "status": "dropped",
+      "day": 6,
+      "winning": 175000,
+      "total": 318500,
+      "options": [
+        {
+          "game": "portal2",
+          "amount": 175000,
+          "winner": true
+        },
+        {
+          "game": "hades",
+          "amount": 105000,
+          "winner": false
+        },
+        {
+          "game": "inside",
+          "amount": 38500,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-033",
+      "player": "karmik",
+      "game": "gothic2",
+      "attempt": "karmik-live",
+      "status": "playing",
+      "day": 6,
+      "winning": 218000,
+      "total": 396760,
+      "options": [
+        {
+          "game": "gothic2",
+          "amount": 218000,
+          "winner": true
+        },
+        {
+          "game": "portal2",
+          "amount": 130800,
+          "winner": false
+        },
+        {
+          "game": "inside",
+          "amount": 47960,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "RPG"
+    },
+    {
+      "id": "LOT-034",
+      "player": "lasqa",
+      "game": "limbo",
+      "attempt": "lasqa-01",
+      "status": "finished",
+      "day": 1,
+      "winning": 261000,
+      "total": 475020,
+      "options": [
+        {
+          "game": "limbo",
+          "amount": 261000,
+          "winner": true
+        },
+        {
+          "game": "inside",
+          "amount": 156600,
+          "winner": false
+        },
+        {
+          "game": "celeste",
+          "amount": 57420,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-035",
+      "player": "lasqa",
+      "game": "inscryption",
+      "attempt": "lasqa-02",
+      "status": "finished",
+      "day": 2,
+      "winning": 64000,
+      "total": 116480,
+      "options": [
+        {
+          "game": "inscryption",
+          "amount": 64000,
+          "winner": true
+        },
+        {
+          "game": "celeste",
+          "amount": 38400,
+          "winner": false
+        },
+        {
+          "game": "firewatch",
+          "amount": 14080,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Хорроры"
+    },
+    {
+      "id": "LOT-036",
+      "player": "lasqa",
+      "game": "katana",
+      "attempt": "lasqa-03",
+      "status": "finished",
+      "day": 3,
+      "winning": 107000,
+      "total": 194740,
+      "options": [
+        {
+          "game": "katana",
+          "amount": 107000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 64200,
+          "winner": false
+        },
+        {
+          "game": "limbo",
+          "amount": 23540,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-037",
+      "player": "lasqa",
+      "game": "hades",
+      "attempt": "lasqa-04",
+      "status": "finished",
+      "day": 5,
+      "winning": 150000,
+      "total": 273000,
+      "options": [
+        {
+          "game": "hades",
+          "amount": 150000,
+          "winner": true
+        },
+        {
+          "game": "limbo",
+          "amount": 90000,
+          "winner": false
+        },
+        {
+          "game": "inscryption",
+          "amount": 33000,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Экшен"
+    },
+    {
+      "id": "LOT-038",
+      "player": "lasqa",
+      "game": "portal2",
+      "attempt": "lasqa-05",
+      "status": "finished",
+      "day": 6,
+      "winning": 193000,
+      "total": 351260,
+      "options": [
+        {
+          "game": "portal2",
+          "amount": 193000,
+          "winner": true
+        },
+        {
+          "game": "inscryption",
+          "amount": 115800,
+          "winner": false
+        },
+        {
+          "game": "katana",
+          "amount": 42460,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-039",
+      "player": "lasqa",
+      "game": "inside",
+      "attempt": "lasqa-06",
+      "status": "dropped",
+      "day": 6,
+      "winning": 236000,
+      "total": 429520,
+      "options": [
+        {
+          "game": "inside",
+          "amount": 236000,
+          "winner": true
+        },
+        {
+          "game": "katana",
+          "amount": 141600,
+          "winner": false
+        },
+        {
+          "game": "hades",
+          "amount": 51920,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-040",
+      "player": "lasqa",
+      "game": "celeste",
+      "attempt": "lasqa-07",
+      "status": "dropped",
+      "day": 6,
+      "winning": 39000,
+      "total": 70980,
+      "options": [
+        {
+          "game": "celeste",
+          "amount": 39000,
+          "winner": true
+        },
+        {
+          "game": "hades",
+          "amount": 23400,
+          "winner": false
+        },
+        {
+          "game": "portal2",
+          "amount": 8580,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-041",
+      "player": "lasqa",
+      "game": "kingdom",
+      "attempt": "lasqa-live",
+      "status": "playing",
+      "day": 6,
+      "winning": 82000,
+      "total": 149240,
+      "options": [
+        {
+          "game": "kingdom",
+          "amount": 82000,
+          "winner": true
+        },
+        {
+          "game": "portal2",
+          "amount": 49200,
+          "winner": false
+        },
+        {
+          "game": "inside",
+          "amount": 18040,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "RPG"
+    },
+    {
+      "id": "LOT-042",
+      "player": "praden",
+      "game": "inscryption",
+      "attempt": "praden-01",
+      "status": "finished",
+      "day": 1,
+      "winning": 125000,
+      "total": 227500,
+      "options": [
+        {
+          "game": "inscryption",
+          "amount": 125000,
+          "winner": true
+        },
+        {
+          "game": "inside",
+          "amount": 75000,
+          "winner": false
+        },
+        {
+          "game": "celeste",
+          "amount": 27500,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Хорроры"
+    },
+    {
+      "id": "LOT-043",
+      "player": "praden",
+      "game": "katana",
+      "attempt": "praden-02",
+      "status": "finished",
+      "day": 2,
+      "winning": 168000,
+      "total": 305760,
+      "options": [
+        {
+          "game": "katana",
+          "amount": 168000,
+          "winner": true
+        },
+        {
+          "game": "celeste",
+          "amount": 100800,
+          "winner": false
+        },
+        {
+          "game": "firewatch",
+          "amount": 36960,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-044",
+      "player": "praden",
+      "game": "hades",
+      "attempt": "praden-03",
+      "status": "finished",
+      "day": 4,
+      "winning": 211000,
+      "total": 384020,
+      "options": [
+        {
+          "game": "hades",
+          "amount": 211000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 126600,
+          "winner": false
+        },
+        {
+          "game": "limbo",
+          "amount": 46420,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Экшен"
+    },
+    {
+      "id": "LOT-045",
+      "player": "praden",
+      "game": "portal2",
+      "attempt": "praden-04",
+      "status": "finished",
+      "day": 6,
+      "winning": 254000,
+      "total": 462280,
+      "options": [
+        {
+          "game": "portal2",
+          "amount": 254000,
+          "winner": true
+        },
+        {
+          "game": "limbo",
+          "amount": 152400,
+          "winner": false
+        },
+        {
+          "game": "inscryption",
+          "amount": 55880,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-046",
+      "player": "praden",
+      "game": "inside",
+      "attempt": "praden-05",
+      "status": "dropped",
+      "day": 6,
+      "winning": 57000,
+      "total": 103740,
+      "options": [
+        {
+          "game": "inside",
+          "amount": 57000,
+          "winner": true
+        },
+        {
+          "game": "inscryption",
+          "amount": 34200,
+          "winner": false
+        },
+        {
+          "game": "katana",
+          "amount": 12540,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-047",
+      "player": "praden",
+      "game": "celeste",
+      "attempt": "praden-06",
+      "status": "dropped",
+      "day": 6,
+      "winning": 100000,
+      "total": 182000,
+      "options": [
+        {
+          "game": "celeste",
+          "amount": 100000,
+          "winner": true
+        },
+        {
+          "game": "katana",
+          "amount": 60000,
+          "winner": false
+        },
+        {
+          "game": "hades",
+          "amount": 22000,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-048",
+      "player": "praden",
+      "game": "ds3",
+      "attempt": "praden-live",
+      "status": "playing",
+      "day": 5,
+      "winning": 143000,
+      "total": 260260,
+      "options": [
+        {
+          "game": "ds3",
+          "amount": 143000,
+          "winner": true
+        },
+        {
+          "game": "hades",
+          "amount": 85800,
+          "winner": false
+        },
+        {
+          "game": "portal2",
+          "amount": 31460,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "RPG"
+    },
+    {
+      "id": "LOT-049",
+      "player": "alina",
+      "game": "katana",
+      "attempt": "alina-01",
+      "status": "finished",
+      "day": 1,
+      "winning": 186000,
+      "total": 338520,
+      "options": [
+        {
+          "game": "katana",
+          "amount": 186000,
+          "winner": true
+        },
+        {
+          "game": "portal2",
+          "amount": 111600,
+          "winner": false
+        },
+        {
+          "game": "inside",
+          "amount": 40920,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-050",
+      "player": "alina",
+      "game": "hades",
+      "attempt": "alina-02",
+      "status": "finished",
+      "day": 2,
+      "winning": 229000,
+      "total": 416780,
+      "options": [
+        {
+          "game": "hades",
+          "amount": 229000,
+          "winner": true
+        },
+        {
+          "game": "inside",
+          "amount": 137400,
+          "winner": false
+        },
+        {
+          "game": "celeste",
+          "amount": 50380,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Экшен"
+    },
+    {
+      "id": "LOT-051",
+      "player": "alina",
+      "game": "portal2",
+      "attempt": "alina-03",
+      "status": "finished",
+      "day": 4,
+      "winning": 32000,
+      "total": 58240,
+      "options": [
+        {
+          "game": "portal2",
+          "amount": 32000,
+          "winner": true
+        },
+        {
+          "game": "celeste",
+          "amount": 19200,
+          "winner": false
+        },
+        {
+          "game": "firewatch",
+          "amount": 7040,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-052",
+      "player": "alina",
+      "game": "inside",
+      "attempt": "alina-04",
+      "status": "finished",
+      "day": 6,
+      "winning": 75000,
+      "total": 136500,
+      "options": [
+        {
+          "game": "inside",
+          "amount": 75000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 45000,
+          "winner": false
+        },
+        {
+          "game": "limbo",
+          "amount": 16500,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-053",
+      "player": "alina",
+      "game": "celeste",
+      "attempt": "alina-05",
+      "status": "dropped",
+      "day": 6,
+      "winning": 118000,
+      "total": 214760,
+      "options": [
+        {
+          "game": "celeste",
+          "amount": 118000,
+          "winner": true
+        },
+        {
+          "game": "limbo",
+          "amount": 70800,
+          "winner": false
+        },
+        {
+          "game": "inscryption",
+          "amount": 25960,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-054",
+      "player": "alina",
+      "game": "firewatch",
+      "attempt": "alina-06",
+      "status": "dropped",
+      "day": 6,
+      "winning": 161000,
+      "total": 293020,
+      "options": [
+        {
+          "game": "firewatch",
+          "amount": 161000,
+          "winner": true
+        },
+        {
+          "game": "inscryption",
+          "amount": 96600,
+          "winner": false
+        },
+        {
+          "game": "katana",
+          "amount": 35420,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-055",
+      "player": "alina",
+      "game": "limbo",
+      "attempt": "alina-07",
+      "status": "dropped",
+      "day": 6,
+      "winning": 204000,
+      "total": 371280,
+      "options": [
+        {
+          "game": "limbo",
+          "amount": 204000,
+          "winner": true
+        },
+        {
+          "game": "katana",
+          "amount": 122400,
+          "winner": false
+        },
+        {
+          "game": "hades",
+          "amount": 44880,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-056",
+      "player": "alina",
+      "game": "pathologic2",
+      "attempt": "alina-live",
+      "status": "playing",
+      "day": 6,
+      "winning": 247000,
+      "total": 449540,
+      "options": [
+        {
+          "game": "pathologic2",
+          "amount": 247000,
+          "winner": true
+        },
+        {
+          "game": "hades",
+          "amount": 148200,
+          "winner": false
+        },
+        {
+          "game": "portal2",
+          "amount": 54340,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Хорроры"
+    },
+    {
+      "id": "LOT-057",
+      "player": "nenormova",
+      "game": "hades",
+      "attempt": "nenormova-01",
+      "status": "finished",
+      "day": 1,
+      "winning": 50000,
+      "total": 91000,
+      "options": [
+        {
+          "game": "hades",
+          "amount": 50000,
+          "winner": true
+        },
+        {
+          "game": "portal2",
+          "amount": 30000,
+          "winner": false
+        },
+        {
+          "game": "inside",
+          "amount": 11000,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Экшен"
+    },
+    {
+      "id": "LOT-058",
+      "player": "nenormova",
+      "game": "portal2",
+      "attempt": "nenormova-02",
+      "status": "finished",
+      "day": 3,
+      "winning": 93000,
+      "total": 169260,
+      "options": [
+        {
+          "game": "portal2",
+          "amount": 93000,
+          "winner": true
+        },
+        {
+          "game": "inside",
+          "amount": 55800,
+          "winner": false
+        },
+        {
+          "game": "celeste",
+          "amount": 20460,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-059",
+      "player": "nenormova",
+      "game": "inside",
+      "attempt": "nenormova-03",
+      "status": "finished",
+      "day": 5,
+      "winning": 136000,
+      "total": 247520,
+      "options": [
+        {
+          "game": "inside",
+          "amount": 136000,
+          "winner": true
+        },
+        {
+          "game": "celeste",
+          "amount": 81600,
+          "winner": false
+        },
+        {
+          "game": "firewatch",
+          "amount": 29920,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-060",
+      "player": "nenormova",
+      "game": "celeste",
+      "attempt": "nenormova-04",
+      "status": "dropped",
+      "day": 6,
+      "winning": 179000,
+      "total": 325780,
+      "options": [
+        {
+          "game": "celeste",
+          "amount": 179000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 107400,
+          "winner": false
+        },
+        {
+          "game": "limbo",
+          "amount": 39380,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-061",
+      "player": "nenormova",
+      "game": "firewatch",
+      "attempt": "nenormova-05",
+      "status": "dropped",
+      "day": 6,
+      "winning": 222000,
+      "total": 404040,
+      "options": [
+        {
+          "game": "firewatch",
+          "amount": 222000,
+          "winner": true
+        },
+        {
+          "game": "limbo",
+          "amount": 133200,
+          "winner": false
+        },
+        {
+          "game": "inscryption",
+          "amount": 48840,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-062",
+      "player": "nenormova",
+      "game": "cyberpunk",
+      "attempt": "nenormova-live",
+      "status": "playing",
+      "day": 5,
+      "winning": 25000,
+      "total": 45500,
+      "options": [
+        {
+          "game": "cyberpunk",
+          "amount": 25000,
+          "winner": true
+        },
+        {
+          "game": "inscryption",
+          "amount": 15000,
+          "winner": false
+        },
+        {
+          "game": "katana",
+          "amount": 5500,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "RPG"
+    },
+    {
+      "id": "LOT-063",
+      "player": "flash",
+      "game": "hades",
+      "attempt": null,
+      "status": "waiting",
+      "day": 7,
+      "winning": 48000,
+      "total": 72000,
+      "options": [
+        {
+          "game": "hades",
+          "amount": 48000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 24000,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Экшен"
+    },
+    {
+      "id": "LOT-064",
+      "player": "dunduk",
+      "game": "inside",
+      "attempt": null,
+      "status": "waiting",
+      "day": 7,
+      "winning": 61000,
+      "total": 91500,
+      "options": [
+        {
+          "game": "inside",
+          "amount": 61000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 30500,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    },
+    {
+      "id": "LOT-065",
+      "player": "mel",
+      "game": "portal2",
+      "attempt": null,
+      "status": "waiting",
+      "day": 7,
+      "winning": 74000,
+      "total": 111000,
+      "options": [
+        {
+          "game": "portal2",
+          "amount": 74000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 37000,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Приключения"
+    },
+    {
+      "id": "LOT-066",
+      "player": "karmik",
+      "game": "katana",
+      "attempt": null,
+      "status": "waiting",
+      "day": 7,
+      "winning": 87000,
+      "total": 130500,
+      "options": [
+        {
+          "game": "katana",
+          "amount": 87000,
+          "winner": true
+        },
+        {
+          "game": "firewatch",
+          "amount": 43500,
+          "winner": false
+        }
+      ],
+      "condition": "Обычное прохождение",
+      "genre": "Платформеры"
+    }
+  ],
+  "games": {
+    "witcher3": {
+      "id": "witcher3",
+      "app": 292030,
+      "title": "The Witcher 3: Wild Hunt",
+      "hltb": null,
+      "cover": "../assets/games/witcher3.jpg",
+      "source": "https://store.steampowered.com/app/292030/",
+      "genre": "RPG"
+    },
+    "disco": {
+      "id": "disco",
+      "app": 632470,
+      "title": "Disco Elysium",
+      "hltb": null,
+      "cover": "../assets/games/disco.jpg",
+      "source": "https://store.steampowered.com/app/632470/",
+      "genre": "RPG"
+    },
+    "bg3": {
+      "id": "bg3",
+      "app": 1086940,
+      "title": "Baldur’s Gate 3",
+      "hltb": null,
+      "cover": "../assets/games/bg3.jpg",
+      "source": "https://store.steampowered.com/app/1086940/",
+      "genre": "RPG"
+    },
+    "gothic2": {
+      "id": "gothic2",
+      "app": 39510,
+      "title": "Gothic II",
+      "hltb": null,
+      "cover": "../assets/games/gothic2.jpg",
+      "source": "https://store.steampowered.com/app/39510/",
+      "genre": "RPG"
+    },
+    "kingdom": {
+      "id": "kingdom",
+      "app": 379430,
+      "title": "Kingdom Come: Deliverance",
+      "hltb": null,
+      "cover": "../assets/games/kingdom.jpg",
+      "source": "https://store.steampowered.com/app/379430/",
+      "genre": "RPG"
+    },
+    "ds3": {
+      "id": "ds3",
+      "app": 374320,
+      "title": "Dark Souls III",
+      "hltb": null,
+      "cover": "../assets/games/ds3.jpg",
+      "source": "https://store.steampowered.com/app/374320/",
+      "genre": "RPG"
+    },
+    "pathologic2": {
+      "id": "pathologic2",
+      "app": 505230,
+      "title": "Pathologic 2",
+      "hltb": null,
+      "cover": "../assets/games/pathologic2.jpg",
+      "source": "https://store.steampowered.com/app/505230/",
+      "genre": "Хорроры"
+    },
+    "cyberpunk": {
+      "id": "cyberpunk",
+      "app": 1091500,
+      "title": "Cyberpunk 2077",
+      "hltb": null,
+      "cover": "../assets/games/cyberpunk.jpg",
+      "source": "https://store.steampowered.com/app/1091500/",
+      "genre": "RPG"
+    },
+    "portal2": {
+      "id": "portal2",
+      "app": 620,
+      "title": "Portal 2",
+      "hltb": null,
+      "cover": "../assets/games/portal2.jpg",
+      "source": "https://store.steampowered.com/app/620/",
+      "genre": "Приключения"
+    },
+    "inside": {
+      "id": "inside",
+      "app": 304430,
+      "title": "INSIDE",
+      "hltb": null,
+      "cover": "../assets/games/inside.jpg",
+      "source": "https://store.steampowered.com/app/304430/",
+      "genre": "Платформеры"
+    },
+    "celeste": {
+      "id": "celeste",
+      "app": 504230,
+      "title": "Celeste",
+      "hltb": null,
+      "cover": "../assets/games/celeste.jpg",
+      "source": "https://store.steampowered.com/app/504230/",
+      "genre": "Платформеры"
+    },
+    "firewatch": {
+      "id": "firewatch",
+      "app": 383870,
+      "title": "Firewatch",
+      "hltb": null,
+      "cover": "../assets/games/firewatch.jpg",
+      "source": "https://store.steampowered.com/app/383870/",
+      "genre": "Приключения"
+    },
+    "limbo": {
+      "id": "limbo",
+      "app": 48000,
+      "title": "LIMBO",
+      "hltb": null,
+      "cover": "../assets/games/limbo.jpg",
+      "source": "https://store.steampowered.com/app/48000/",
+      "genre": "Платформеры"
+    },
+    "inscryption": {
+      "id": "inscryption",
+      "app": 1092790,
+      "title": "Inscryption",
+      "hltb": null,
+      "cover": "../assets/games/inscryption.jpg",
+      "source": "https://store.steampowered.com/app/1092790/",
+      "genre": "Хорроры"
+    },
+    "katana": {
+      "id": "katana",
+      "app": 460950,
+      "title": "Katana ZERO",
+      "hltb": null,
+      "cover": "../assets/games/katana.jpg",
+      "source": "https://store.steampowered.com/app/460950/",
+      "genre": "Платформеры"
+    },
+    "hades": {
+      "id": "hades",
+      "app": 1145360,
+      "title": "Hades",
+      "hltb": null,
+      "cover": "../assets/games/hades.jpg",
+      "source": "https://store.steampowered.com/app/1145360/",
+      "genre": "Экшен"
+    }
+  },
+  "history": [
+    {
+      "id": "flash",
+      "name": "F1ashko",
+      "rank25": 1,
+      "rank26": 1,
+      "points26": 1624
+    },
+    {
+      "id": "dunduk",
+      "name": "Dunduk",
+      "rank25": 3,
+      "rank26": 2,
+      "points26": 1479
+    },
+    {
+      "id": "mel",
+      "name": "Melharucos",
+      "rank25": null,
+      "rank26": 3,
+      "points26": 1462
+    },
+    {
+      "id": "karmik",
+      "name": "KarmikKoala",
+      "rank25": 4,
+      "rank26": 4,
+      "points26": null
+    },
+    {
+      "id": "lasqa",
+      "name": "Lasqa",
+      "rank25": null,
+      "rank26": 5,
+      "points26": null
+    },
+    {
+      "id": "praden",
+      "name": "Praden",
+      "rank25": null,
+      "rank26": 6,
+      "points26": null
+    },
+    {
+      "id": "maddyson",
+      "name": "Maddyson",
+      "rank25": 7,
+      "rank26": 7,
+      "points26": null
+    },
+    {
+      "id": "cake",
+      "name": "C_a_k_e",
+      "rank25": 2,
+      "rank26": 8,
+      "points26": null
+    },
+    {
+      "id": "viktor",
+      "name": "ViktorZu",
+      "rank25": null,
+      "rank26": 9,
+      "points26": null
+    },
+    {
+      "id": "valakas",
+      "name": "GladValakas",
+      "rank25": 6,
+      "rank26": 10,
+      "points26": null
+    },
+    {
+      "id": "arrow",
+      "name": "Arrowwoods",
+      "rank25": 5,
+      "rank26": 11,
+      "points26": null
+    },
+    {
+      "id": "nenormova",
+      "name": "nenormova",
+      "rank25": null,
+      "rank26": 12,
+      "points26": null
+    },
+    {
+      "id": "alina",
+      "name": "AlinaRinRin",
+      "rank25": 8,
+      "rank26": null,
+      "points26": null
+    }
+  ],
+  "focusAttempt": "mel-01",
+  "selection": [
+    "flash",
+    "dunduk",
+    "mel",
+    "karmik",
+    "lasqa",
+    "praden",
+    "alina",
+    "nenormova",
+    "arrow"
+  ]
+}
