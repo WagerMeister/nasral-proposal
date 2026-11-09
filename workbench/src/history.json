@@ -1,0 +1,202 @@
+{
+  "events": {
+    "nasral-2025": {
+      "name": "NASRAL 2025",
+      "date": "2025",
+      "series": true,
+      "theme": "Fallout · ретрофутуризм",
+      "symbol": "atom",
+      "route": "season&season=2025"
+    },
+    "nassal-2026": {
+      "name": "NASSAL 2026",
+      "date": "2026",
+      "series": true,
+      "theme": "Vice City · летний сезон",
+      "symbol": "palm",
+      "route": "season&season=2026"
+    },
+    "nasral-2026": {
+      "name": "NASRAL 2026",
+      "date": "2026",
+      "series": true,
+      "theme": "The Witcher · зимний сезон",
+      "symbol": "wolf",
+      "route": "standings"
+    },
+    "streamhata": {
+      "name": "Стримхаты",
+      "date": "Ранние ивенты",
+      "series": false
+    },
+    "hpg2": {
+      "name": "HPG 2",
+      "date": "Архив",
+      "series": false
+    },
+    "upg-2022": {
+      "name": "UPG",
+      "date": "2022",
+      "series": false
+    },
+    "mge-2024": {
+      "name": "MGE",
+      "date": "2024",
+      "series": false
+    },
+    "whopg2": {
+      "name": "WhoPG 2.0",
+      "date": "Архив",
+      "series": false
+    }
+  },
+  "standings": [
+    {
+      "id": "flash",
+      "name": "F1ashko",
+      "rank25": 1,
+      "rank26": 1,
+      "points26": 1624
+    },
+    {
+      "id": "dunduk",
+      "name": "Dunduk",
+      "rank25": 3,
+      "rank26": 2,
+      "points26": 1479
+    },
+    {
+      "id": "mel",
+      "name": "Melharucos",
+      "rank25": null,
+      "rank26": 3,
+      "points26": 1462
+    },
+    {
+      "id": "karmik",
+      "name": "KarmikKoala",
+      "rank25": 4,
+      "rank26": 4,
+      "points26": null
+    },
+    {
+      "id": "lasqa",
+      "name": "Lasqa",
+      "rank25": null,
+      "rank26": 5,
+      "points26": null
+    },
+    {
+      "id": "praden",
+      "name": "Praden",
+      "rank25": null,
+      "rank26": 6,
+      "points26": null
+    },
+    {
+      "id": "maddyson",
+      "name": "Maddyson",
+      "rank25": 7,
+      "rank26": 7,
+      "points26": null
+    },
+    {
+      "id": "cake",
+      "name": "C_a_k_e",
+      "rank25": 2,
+      "rank26": 8,
+      "points26": null
+    },
+    {
+      "id": "viktor",
+      "name": "ViktorZu",
+      "rank25": null,
+      "rank26": 9,
+      "points26": null
+    },
+    {
+      "id": "valakas",
+      "name": "GladValakas",
+      "rank25": 6,
+      "rank26": 10,
+      "points26": null
+    },
+    {
+      "id": "arrow",
+      "name": "Arrowwoods",
+      "rank25": 5,
+      "rank26": 11,
+      "points26": null
+    },
+    {
+      "id": "nenormova",
+      "name": "nenormova",
+      "rank25": null,
+      "rank26": 12,
+      "points26": null
+    },
+    {
+      "id": "alina",
+      "name": "AlinaRinRin",
+      "rank25": 8,
+      "rank26": null,
+      "points26": null
+    }
+  ],
+  "legacy": [
+    {
+      "player": "mel",
+      "event": "streamhata",
+      "role": "Участник",
+      "place": null
+    },
+    {
+      "player": "mel",
+      "event": "hpg2",
+      "role": "Участник",
+      "place": 2
+    },
+    {
+      "player": "mel",
+      "event": "upg-2022",
+      "role": "Участник",
+      "place": null
+    },
+    {
+      "player": "mel",
+      "event": "mge-2024",
+      "role": "Судья",
+      "place": null
+    },
+    {
+      "player": "flash",
+      "event": "upg-2022",
+      "role": "Участник",
+      "place": 1
+    },
+    {
+      "player": "flash",
+      "event": "mge-2024",
+      "role": "Участник",
+      "place": 2
+    },
+    {
+      "player": "praden",
+      "event": "mge-2024",
+      "role": "Участник",
+      "place": 1
+    },
+    {
+      "player": "praden",
+      "event": "whopg2",
+      "role": "Участник",
+      "place": 1
+    },
+    {
+      "player": "lasqa",
+      "event": "streamhata",
+      "role": "Участник",
+      "place": null
+    }
+  ]
+}
